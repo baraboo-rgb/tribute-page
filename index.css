@@ -1,0 +1,58 @@
+/* ALL */
+
+#main {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* TITLE */
+
+#title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* IMAGE */
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: whitesmoke;
+    margin: 0 125px 0 125px;
+}
+
+#image {
+    max-width: 66%;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+#image-caption {
+    font-size: 0.88em;   
+}
+
+/* MAIN CONTAINER */
+
+#line {
+    border: 1px solid black;
+}
+
+#tribute-info {
+    display: flex;
+    justify-content: center;
+}
+
+#para {
+    margin: 10px 75px 10px 75px;
+}
+
+/* FOOTER */
+
+footer {
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
